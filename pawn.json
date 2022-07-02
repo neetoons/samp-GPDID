@@ -1,7 +1,7 @@
 {
 	"user": "neetoons",
 	"repo": "samp-GPDID",
-	"tag": "0.0.1",
+	"tag": 2.1.0",
 	"entry": "test.pwn",
 	"output": "gamemodes/test.amx"
 }
